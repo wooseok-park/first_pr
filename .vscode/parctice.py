@@ -194,4 +194,4 @@ firebat1.attack("5시")
 firebat1.damaged(25)
 firebat1.damaged(25)
 
-# 메딕 : 의무병   
+# 메딕 : 의무병  .....
